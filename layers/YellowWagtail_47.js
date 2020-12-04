@@ -1,0 +1,10 @@
+var json_YellowWagtail_47 = {
+"type": "FeatureCollection",
+"name": "YellowWagtail_47",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "GridType": "Tetrad (2 km square)", "GridRef": "SD80H", "Yellow Wag": "MMEEEBV2EEEP8F5U", "Yellow W_1": "bird", "Yellow W_2": "Motacilla flava", "Yellow W_3": "Yellow Wagtail", "Yellow W_4": "43572", "Yellow W_5": null, "Yellow W_6": "xchange - GMBRG", "Yellow W_7": "SD80" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.273029369762403, 53.532342996117841 ], [ -2.273145172028188, 53.550319477072527 ], [ -2.242959467261191, 53.550384669021952 ], [ -2.242856449855834, 53.532408145551202 ], [ -2.273029369762403, 53.532342996117841 ] ] ] ] } },
+{ "type": "Feature", "properties": { "GridType": "Tetrad (2 km square)", "GridRef": "SD91H", "Yellow Wag": "MMEEEAG4EEE2SF66", "Yellow W_1": "bird", "Yellow W_2": "Motacilla flava", "Yellow W_3": "Yellow Wagtail", "Yellow W_4": "43579", "Yellow W_5": "Data Imported From MapMate - RFNS - General (ag4, ajr, av5, cf8)", "Yellow W_6": "Records Imported from MapMate", "Yellow W_7": "SD91" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.122423741009909, 53.622475287412115 ], [ -2.122475898447067, 53.640451659204011 ], [ -2.09222564069773, 53.640478849213075 ], [ -2.092186337964724, 53.622502459674202 ], [ -2.122423741009909, 53.622475287412115 ] ] ] ] } },
+{ "type": "Feature", "properties": { "GridType": "Tetrad (2 km square)", "GridRef": "SD91M", "Yellow Wag": "MMEEEBWREEE00ELA", "Yellow W_1": "bird", "Yellow W_2": "Motacilla flava", "Yellow W_3": "Yellow Wagtail", "Yellow W_4": "43577", "Yellow W_5": null, "Yellow W_6": "Records Imported from Website", "Yellow W_7": "SD91" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.092186337964724, 53.622502459674202 ], [ -2.09222564069773, 53.640478849213075 ], [ -2.061975340433685, 53.640498396094621 ], [ -2.061948892466687, 53.622521993798827 ], [ -2.092186337964724, 53.622502459674202 ] ] ] ] } }
+]
+}

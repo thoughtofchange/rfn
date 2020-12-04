@@ -1,0 +1,10 @@
+var json_GardenWarbler_41 = {
+"type": "FeatureCollection",
+"name": "GardenWarbler_41",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "GridType": "Tetrad (2 km square)", "GridRef": "SD81K", "Garden War": "MMEEEAG4EEE57P5P", "Garden W_1": "bird", "Garden W_2": "Sylvia borin", "Garden W_3": "Garden Warbler", "Garden W_4": "43583", "Garden W_5": "Data Imported From MapMate - RFNS - General (ag4, ajr, av5, cf8)", "Garden W_6": "Records Imported from MapMate", "Garden W_7": "SD81" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.243165835956417, 53.58633755237004 ], [ -2.243269187570075, 53.604313912268886 ], [ -2.213044933579043, 53.60437159904847 ], [ -2.212954408466343, 53.586395201506896 ], [ -2.243165835956417, 53.58633755237004 ] ] ] ] } },
+{ "type": "Feature", "properties": { "GridType": "Tetrad (2 km square)", "GridRef": "SD91E", "Garden War": "MMEEEBWREEE00GB2", "Garden W_1": "bird", "Garden W_2": "Sylvia borin", "Garden W_3": "Garden Warbler", "Garden W_4": "43605", "Garden W_5": null, "Garden W_6": "Records Imported from Website", "Garden W_7": "SD91" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.152791182163847, 53.658393120752748 ], [ -2.152856334987319, 53.676369361023447 ], [ -2.122580382672895, 53.676404239663817 ], [ -2.122528112307311, 53.658427976617581 ], [ -2.152791182163847, 53.658393120752748 ] ] ] ] } },
+{ "type": "Feature", "properties": { "GridType": "Tetrad (2 km square)", "GridRef": "SD90Y", "Garden War": "MMEEEBWREEE00F7X", "Garden W_1": "bird", "Garden W_2": "Sylvia borin", "Garden W_3": "Garden Warbler", "Garden W_4": "43583", "Garden W_5": null, "Garden W_6": "Records Imported from Website", "Garden W_7": "SD90" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.031657192328452, 53.550627705836561 ], [ -2.031670726905503, 53.568604333392628 ], [ -2.001471719405382, 53.56860858287353 ], [ -2.001470984226547, 53.550631952550027 ], [ -2.031657192328452, 53.550627705836561 ] ] ] ] } }
+]
+}
